@@ -1,2 +1,2 @@
 # java-script
-console.log(hello world);
+console.log("hello world");
